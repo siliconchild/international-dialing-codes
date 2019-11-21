@@ -10,11 +10,6 @@
     "code": "+355"
   },
   {
-    "country": "Albania",
-    "id": "AQ",
-    "code": "+355"
-  },
-  {
     "country": "Algeria",
     "id": "DZ",
     "code": "+213"
@@ -195,9 +190,9 @@
     "code": "+238"
   },
   {
-    "country": "Cape Verde",
+    "country": "Ivory Coast",
     "id": "CI",
-    "code": "+238"
+    "code": "+225"
   },
   {
     "country": "Cayman Islands",
@@ -225,9 +220,9 @@
     "code": "+86"
   },
   {
-    "country": "China",
+    "country": "Czech Republic",
     "id": "CZ",
-    "code": "+86"
+    "code": "+420"
   },
   {
     "country": "Christmas Island",
@@ -920,9 +915,9 @@
     "code": "+590"
   },
   {
-    "country": "Saint Martin (France)",
+    "country": "Taiwan",
     "id": "TW",
-    "code": "+590"
+    "code": "+886"
   },
   {
     "country": "Saint Pierre and Miquelon",
@@ -1080,7 +1075,7 @@
     "code": "+66"
   },
   {
-    "country": "The Republic of Moldova",
+    "country": "Moldova",
     "id": "MD",
     "code": "+373"
   },
@@ -1130,7 +1125,7 @@
     "code": "+688"
   },
   {
-    "country": "US Virgin Islands",
+    "country": "Virgin Islands British",
     "id": "VG",
     "code": "+1"
   },
