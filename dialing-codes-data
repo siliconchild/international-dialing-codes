@@ -5,6 +5,11 @@
     "code": "+93"
   },
   {
+    "country": "Åland Islands",
+    "id": "AX",
+    "code": "+358"
+  },
+  {
     "country": "Albania",
     "id": "AL",
     "code": "+355"
@@ -338,6 +343,11 @@
     "country": "Estonia",
     "id": "EE",
     "code": "+372"
+  },
+  {
+    "country": "eSwatini",
+    "id": "SZ",
+    "code": "+268"
   },
   {
     "country": "Ethiopia",
@@ -1203,15 +1213,5 @@
     "country": "Zimbabwe",
     "id": "ZW",
     "code": "+263"
-  },
-  {
-    "country": "eSwatini",
-    "id": "SZ",
-    "code": "+268"
-  },
-  {
-    "country": "Åland Islands",
-    "id": "AX",
-    "code": "+358"
   }
 ]
