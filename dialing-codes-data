@@ -130,9 +130,9 @@
     "code": "+975"
   },
   {
-    "country": "Palestine, State of",
+    "country": "Bolivia",
     "id": "BO",
-    "code": "+970"
+    "code": "+591"
   },
   {
     "country": "Bonaire",
@@ -148,11 +148,6 @@
     "country": "Botswana",
     "id": "BW",
     "code": "+267"
-  },
-  {
-    "country": "Easter Island",
-    "id": "BV",
-    "code": "+56"
   },
   {
     "country": "Brazil",
@@ -395,11 +390,6 @@
     "code": "+689"
   },
   {
-    "country": "Australian External Territories",
-    "id": "TF",
-    "code": "+672"
-  },
-  {
     "country": "Gabon",
     "id": "GA",
     "code": "+241"
@@ -485,16 +475,6 @@
     "code": "+509"
   },
   {
-    "country": "Turks and Caicos Islands",
-    "id": "HM",
-    "code": "+1"
-  },
-  {
-    "country": "Cape Verde",
-    "id": "VA",
-    "code": "+238"
-  },
-  {
     "country": "Honduras",
     "id": "HN",
     "code": "+504"
@@ -525,9 +505,9 @@
     "code": "+62"
   },
   {
-    "country": "Dominican Republic",
+    "country": "Iran",
     "id": "IR",
-    "code": "+1"
+    "code": "+98"
   },
   {
     "country": "Iraq",
@@ -590,14 +570,14 @@
     "code": "+686"
   },
   {
-    "country": "Congo, Democratic Republic of the (Zaire)",
+    "country": "North Korea",
     "id": "KP",
-    "code": "+243"
+    "code": "+850"
   },
   {
-    "country": "Czech Republic",
+    "country": "South Korea",
     "id": "KR",
-    "code": "+420"
+    "code": "+82"
   },
   {
     "country": "Kuwait",
@@ -610,9 +590,9 @@
     "code": "+996"
   },
   {
-    "country": "Congo, Democratic Republic of the (Zaire)",
+    "country": "Laos",
     "id": "LA",
-    "code": "+243"
+    "code": "+856"
   },
   {
     "country": "Latvia",
@@ -725,14 +705,14 @@
     "code": "+52"
   },
   {
-    "country": "Micronesia, Federated States of",
+    "country": "Micronesia",
     "id": "FM",
     "code": "+691"
   },
   {
-    "country": "Czech Republic",
+    "country": "The Republic of Moldova",
     "id": "MD",
-    "code": "+420"
+    "code": "+373"
   },
   {
     "country": "Monaco",
@@ -850,7 +830,7 @@
     "code": "+680"
   },
   {
-    "country": "Palestine, State of",
+    "country": "Palestine",
     "id": "PS",
     "code": "+970"
   },
@@ -880,9 +860,9 @@
     "code": "+63"
   },
   {
-    "country": "Bahrain",
+    "country": "Pitcairn Islands",
     "id": "PN",
-    "code": "+973"
+    "code": "+64"
   },
   {
     "country": "Poland",
@@ -915,9 +895,9 @@
     "code": "+40"
   },
   {
-    "country": "Tristan da Cunha",
+    "country": "Russia",
     "id": "RU",
-    "code": "+290"
+    "code": "+7"
   },
   {
     "country": "Rwanda",
@@ -1080,9 +1060,9 @@
     "code": "+41"
   },
   {
-    "country": "Dominican Republic",
+    "country": "Syria",
     "id": "SY",
-    "code": "+1"
+    "code": "+963"
   },
   {
     "country": "Saint Martin (France)",
@@ -1095,9 +1075,9 @@
     "code": "+992"
   },
   {
-    "country": "Central African Republic",
+    "country": "Tanzania",
     "id": "TZ",
-    "code": "+236"
+    "code": "+255"
   },
   {
     "country": "Thailand",
@@ -1105,9 +1085,9 @@
     "code": "+66"
   },
   {
-    "country": "Comoros",
+    "country": "East Timor",
     "id": "TL",
-    "code": "+269"
+    "code": "+670"
   },
   {
     "country": "Togo",
@@ -1170,19 +1150,14 @@
     "code": "+971"
   },
   {
-    "country": "Saint Vincent and the Grenadines",
+    "country": "Great Britian",
     "id": "GB",
-    "code": "+1"
+    "code": "+44"
   },
   {
-    "country": "British Virgin Islands",
-    "id": "UM",
-    "code": "+1"
-  },
-  {
-    "country": "United Arab Emirates",
+    "country": "USA",
     "id": "US",
-    "code": "+971"
+    "code": "+1"
   },
   {
     "country": "Uruguay",
@@ -1200,9 +1175,9 @@
     "code": "+678"
   },
   {
-    "country": "Central African Republic",
+    "country": "Venezuela",
     "id": "VE",
-    "code": "+236"
+    "code": "+58"
   },
   {
     "country": "Vietnam",
@@ -1215,19 +1190,19 @@
     "code": "+1"
   },
   {
-    "country": "Midway Island, USA",
+    "country": "Virgin Islands, USA",
     "id": "VI",
     "code": "+1"
+  },
+  {
+    "country": "Vatican",
+    "id": "VA",
+    "code": "+379"
   },
   {
     "country": "Wallis and Futuna",
     "id": "WF",
     "code": "+681"
-  },
-  {
-    "country": "Easter Island",
-    "id": "EH",
-    "code": "+56"
   },
   {
     "country": "Yemen",
