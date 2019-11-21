@@ -5,13 +5,13 @@
     "code": "+93"
   },
   {
-    "country": "Åland Islands",
-    "id": "AX",
-    "code": "+358"
+    "country": "Albania",
+    "id": "AL",
+    "code": "+355"
   },
   {
     "country": "Albania",
-    "id": "AL",
+    "id": "AQ",
     "code": "+355"
   },
   {
@@ -38,11 +38,6 @@
     "country": "Anguilla",
     "id": "AI",
     "code": "+1"
-  },
-  {
-    "country": "Albania",
-    "id": "AQ",
-    "code": "+355"
   },
   {
     "country": "Antigua and Barbuda",
@@ -180,11 +175,6 @@
     "code": "+257"
   },
   {
-    "country": "Cape Verde",
-    "id": "CV",
-    "code": "+238"
-  },
-  {
     "country": "Cambodia",
     "id": "KH",
     "code": "+855"
@@ -198,6 +188,16 @@
     "country": "Canada",
     "id": "CA",
     "code": "+1"
+  },
+  {
+    "country": "Cape Verde",
+    "id": "CV",
+    "code": "+238"
+  },
+  {
+    "country": "Cape Verde",
+    "id": "CI",
+    "code": "+238"
   },
   {
     "country": "Cayman Islands",
@@ -225,6 +225,11 @@
     "code": "+86"
   },
   {
+    "country": "China",
+    "id": "CZ",
+    "code": "+86"
+  },
+  {
     "country": "Christmas Island",
     "id": "CX",
     "code": "+61"
@@ -245,14 +250,14 @@
     "code": "+269"
   },
   {
-    "country": "Congo, Democratic Republic of the (Zaire)",
-    "id": "CD",
-    "code": "+243"
-  },
-  {
     "country": "Congo",
     "id": "CG",
     "code": "+242"
+  },
+  {
+    "country": "Congo, Democratic Republic of the (Zaire)",
+    "id": "CD",
+    "code": "+243"
   },
   {
     "country": "Cook Islands",
@@ -263,11 +268,6 @@
     "country": "Costa Rica",
     "id": "CR",
     "code": "+506"
-  },
-  {
-    "country": "Cape Verde",
-    "id": "CI",
-    "code": "+238"
   },
   {
     "country": "Croatia",
@@ -290,11 +290,6 @@
     "code": "+357"
   },
   {
-    "country": "China",
-    "id": "CZ",
-    "code": "+86"
-  },
-  {
     "country": "Denmark",
     "id": "DK",
     "code": "+45"
@@ -313,6 +308,11 @@
     "country": "Dominican Republic",
     "id": "DO",
     "code": "+1"
+  },
+  {
+    "country": "East Timor",
+    "id": "TL",
+    "code": "+670"
   },
   {
     "country": "Ecuador",
@@ -343,11 +343,6 @@
     "country": "Estonia",
     "id": "EE",
     "code": "+372"
-  },
-  {
-    "country": "eSwatini",
-    "id": "SZ",
-    "code": "+268"
   },
   {
     "country": "Ethiopia",
@@ -418,6 +413,11 @@
     "country": "Gibraltar",
     "id": "GI",
     "code": "+350"
+  },
+  {
+    "country": "Great Britian",
+    "id": "GB",
+    "code": "+44"
   },
   {
     "country": "Greece",
@@ -570,16 +570,6 @@
     "code": "+686"
   },
   {
-    "country": "North Korea",
-    "id": "KP",
-    "code": "+850"
-  },
-  {
-    "country": "South Korea",
-    "id": "KR",
-    "code": "+82"
-  },
-  {
     "country": "Kuwait",
     "id": "KW",
     "code": "+965"
@@ -638,11 +628,6 @@
     "country": "Macau",
     "id": "MO",
     "code": "+853"
-  },
-  {
-    "country": "North Macedonia",
-    "id": "MK",
-    "code": "+389"
   },
   {
     "country": "Madagascar",
@@ -708,11 +693,6 @@
     "country": "Micronesia",
     "id": "FM",
     "code": "+691"
-  },
-  {
-    "country": "The Republic of Moldova",
-    "id": "MD",
-    "code": "+373"
   },
   {
     "country": "Monaco",
@@ -805,6 +785,16 @@
     "code": "+672"
   },
   {
+    "country": "North Korea",
+    "id": "KP",
+    "code": "+850"
+  },
+  {
+    "country": "North Macedonia",
+    "id": "MK",
+    "code": "+389"
+  },
+  {
     "country": "Northern Mariana Islands",
     "id": "MP",
     "code": "+1"
@@ -885,11 +875,6 @@
     "code": "+974"
   },
   {
-    "country": "Réunion",
-    "id": "RE",
-    "code": "+262"
-  },
-  {
     "country": "Romania",
     "id": "RO",
     "code": "+40"
@@ -903,6 +888,11 @@
     "country": "Rwanda",
     "id": "RW",
     "code": "+250"
+  },
+  {
+    "country": "Réunion",
+    "id": "RE",
+    "code": "+262"
   },
   {
     "country": "Saint Barthélemy",
@@ -930,6 +920,11 @@
     "code": "+590"
   },
   {
+    "country": "Saint Martin (France)",
+    "id": "TW",
+    "code": "+590"
+  },
+  {
     "country": "Saint Pierre and Miquelon",
     "id": "PM",
     "code": "+508"
@@ -948,11 +943,6 @@
     "country": "San Marino",
     "id": "SM",
     "code": "+378"
-  },
-  {
-    "country": "São Tomé and Príncipe",
-    "id": "ST",
-    "code": "+239"
   },
   {
     "country": "Saudi Arabia",
@@ -1020,6 +1010,11 @@
     "code": "+500"
   },
   {
+    "country": "South Korea",
+    "id": "KR",
+    "code": "+82"
+  },
+  {
     "country": "South Sudan",
     "id": "SS",
     "code": "+211"
@@ -1065,9 +1060,9 @@
     "code": "+963"
   },
   {
-    "country": "Saint Martin (France)",
-    "id": "TW",
-    "code": "+590"
+    "country": "São Tomé and Príncipe",
+    "id": "ST",
+    "code": "+239"
   },
   {
     "country": "Tajikistan",
@@ -1085,9 +1080,9 @@
     "code": "+66"
   },
   {
-    "country": "East Timor",
-    "id": "TL",
-    "code": "+670"
+    "country": "The Republic of Moldova",
+    "id": "MD",
+    "code": "+373"
   },
   {
     "country": "Togo",
@@ -1135,6 +1130,16 @@
     "code": "+688"
   },
   {
+    "country": "US Virgin Islands",
+    "id": "VG",
+    "code": "+1"
+  },
+  {
+    "country": "USA",
+    "id": "US",
+    "code": "+1"
+  },
+  {
     "country": "Uganda",
     "id": "UG",
     "code": "+256"
@@ -1148,16 +1153,6 @@
     "country": "United Arab Emirates",
     "id": "AE",
     "code": "+971"
-  },
-  {
-    "country": "Great Britian",
-    "id": "GB",
-    "code": "+44"
-  },
-  {
-    "country": "USA",
-    "id": "US",
-    "code": "+1"
   },
   {
     "country": "Uruguay",
@@ -1175,6 +1170,11 @@
     "code": "+678"
   },
   {
+    "country": "Vatican",
+    "id": "VA",
+    "code": "+379"
+  },
+  {
     "country": "Venezuela",
     "id": "VE",
     "code": "+58"
@@ -1185,19 +1185,9 @@
     "code": "+84"
   },
   {
-    "country": "US Virgin Islands",
-    "id": "VG",
-    "code": "+1"
-  },
-  {
     "country": "Virgin Islands, USA",
     "id": "VI",
     "code": "+1"
-  },
-  {
-    "country": "Vatican",
-    "id": "VA",
-    "code": "+379"
   },
   {
     "country": "Wallis and Futuna",
@@ -1218,5 +1208,15 @@
     "country": "Zimbabwe",
     "id": "ZW",
     "code": "+263"
+  },
+  {
+    "country": "eSwatini",
+    "id": "SZ",
+    "code": "+268"
+  },
+  {
+    "country": "Åland Islands",
+    "id": "AX",
+    "code": "+358"
   }
 ]
