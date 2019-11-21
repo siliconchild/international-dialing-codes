@@ -1,4 +1,4 @@
-# International-Dialing-Codes
+# International Dialing Codes
 A list of International Dialing Codes Based off Wikipedia Data
 
 Since I couldn't find a pre-made list which was to my satisfaction. I pulled data from this wikipedia article https://en.wikipedia.org/wiki/List_of_country_calling_codes.
